@@ -1,0 +1,4 @@
+echo "WELL COME TO THE LAND MARK GROUP"
+date
+cal
+echo "THIS IS COMMAND"
